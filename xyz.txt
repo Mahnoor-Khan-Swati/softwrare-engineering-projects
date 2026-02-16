@@ -1,0 +1,16 @@
+What is the primary goal of supervised learning?|Discover hidden patterns in data|Maximize reward in an environment|Learn from labeled data to make predictions|Reduce dimensionality|C
+Which algorithm is used for classification problems?|K-Means|Support Vector Machine (SVM)|Linear Regression|PCA|B
+What is overfitting in machine learning?|Model performs poorly on training data|Model learns noise and performs poorly on test data|Model is too simple|None of the above|B
+Which of the following is NOT a type of machine learning?|Supervised Learning|Reinforcement Learning|Inductive Learning|Unsupervised Learning|C
+Which of the following is a regression algorithm?|Linear Regression|Decision Tree Classifier|K-Means|Naive Bayes|A
+What does the confusion matrix evaluate?|Classification performance|Clustering accuracy|Regression loss|Feature importance|A
+What is the purpose of gradient descent?|Increase model variance|Minimize loss function|Select features|Convert data to lower dimension|B
+Which method helps prevent overfitting?|Cross-validation|Gradient boosting|Feature scaling|Batch normalization|A
+Which of the following is a dimensionality reduction technique?|KNN|PCA (Principal Component Analysis)|Logistic Regression|XGBoost|B
+What is the F1 score?|Average of accuracy and recall|Harmonic mean of precision and recall|Sum of precision and recall|Difference between precision and recall|B
+Which evaluation metric is best for imbalanced datasets?|Accuracy|MSE|Precision and Recall|R-squared|C
+What is a key feature of ensemble methods?|Combine multiple models to improve performance|Use deep learning layers|Use only one type of model|Reduce data size|A
+Which of the following is used in unsupervised learning?|Decision Tree|K-Means Clustering|Logistic Regression|Random Forest|B
+What does the term "feature engineering" refer to?|Removing labels from data|Creating new input features from raw data|Evaluating model performance|Increasing dataset size|B
+Which technique is used to handle imbalanced datasets?|Cross-validation|SMOTE (Synthetic Minority Over-sampling Technique)|PCA|Binarization|B
+
